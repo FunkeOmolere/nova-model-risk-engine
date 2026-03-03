@@ -1,10 +1,17 @@
 # Nova Model Risk Engine
 
-An AI Model Risk Scoring Engine designed to assess and quantify model risk across governance, compliance, and operational dimensions.
+A modular AI model risk scoring engine forming the foundation of an internal AI governance toolkit.
 
 ## Purpose
 
-This project explores how structured risk scoring logic can be applied to AI systems within enterprise governance frameworks.
+This project operationalises a structured and extensible risk scoring framework using model complexity and data sensitivity to:
+
+- Classify AI models into risk tiers
+- Support governance-based escalation pathways
+- Visualise accountability across model owners and departments
+- Enable consistent oversight across the AI lifecycle
+
+The engine is designed to evolve into a broader internal AI governance toolkit supporting policy alignment, regulatory readiness, and operational risk monitoring.
 
 ## Features
 
